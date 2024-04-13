@@ -10,8 +10,8 @@ body {
 
 .container {
     text-align: center;
-    height: 600px;
-    width: 500px;
+    height: 300px;
+    width: 200px;
 }
 
 canvas {
